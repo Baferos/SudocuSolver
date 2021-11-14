@@ -1,0 +1,5 @@
+#Tooling
+.vs/
+.git/
+Release/
+SudocuSolver/Release/
