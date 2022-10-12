@@ -2,4 +2,6 @@
 .vs/
 .git/
 Release/
-SudocuSolver/Release/
+cmake-build-debug/
+.idea/
+.DS_Store
