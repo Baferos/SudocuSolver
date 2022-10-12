@@ -10,7 +10,5 @@ CMake 3.23 or higher is required.
 
 ```bash
 cmake .
-```
-```bash
 make
 ```
