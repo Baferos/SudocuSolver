@@ -1,7 +1,15 @@
 #Tooling
 .vs/
-.git/
 Release/
 cmake-build-debug/
 .idea/
 .DS_Store
+.cmake/
+.ninja_deps
+.ninja_log
+CMakeCache.txt
+CMakeFiles/
+Testing/
+build.ninja
+cmake_install.cmake
+suducuSolver
